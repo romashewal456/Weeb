@@ -654,7 +654,7 @@ body {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(/project/img/Smart\ Finder\ logo.png);
+    background-image: url(Smart\ Finder\ logo.png);
     background-size: cover;
     background-position: center;
     height: 33.5px;
@@ -667,7 +667,7 @@ body {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(/project/img/Zoomer\ logo.png);
+    background-image: url(Zoomer\ logo.png);
     background-size: cover;
     background-position: center;
     height: 32px;
@@ -680,7 +680,7 @@ body {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(/project/img/SHELLS\ logo.png);
+    background-image: url(SHELLS\ logo.png);
     background-size: cover;
     background-position: center;
     height: 32px;
@@ -693,7 +693,7 @@ body {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(/project/img/WAVES\ logo.png);
+    background-image: url(WAVES\ logo.png);
     background-size: cover;
     background-position: center;
     height: 32px;
@@ -710,7 +710,7 @@ body {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(/project/img/ArtVenue\ logo.png);
+    background-image: url(ArtVenue\ logo.png);
     background-size: cover;
     background-position: center;
     height: 32px;
@@ -843,7 +843,7 @@ body {
     position: absolute;
     width: 24px;
     height: 24px;
-    background-image: url(/project/img/icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right.svg);
+    background-image: url(icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right.svg);
     background-size: cover;
     background-position: center;
     margin-left: 16px;
@@ -1046,7 +1046,7 @@ body {
     position: absolute;
     width: 24px;
     height: 24px;
-    background-image: url(/project/img/icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right.svg);
+    background-image: url(icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right.svg);
     background-size: cover;
     background-position: center;
     margin-left: 16px;
@@ -1393,7 +1393,7 @@ body {
     position: absolute;
     width: 24px;
     height: 24px;
-    background-image: url(/project/img/icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right\ \(1\).svg);
+    background-image: url(\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right\ \(1\).svg);
     background-size: cover;
     background-position: center;
     margin-left: 16px;
@@ -1501,7 +1501,7 @@ body {
     top: 0;
     right: 0;
     position: absolute;
-    background-image: url(/project/img/icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right\ \(1\).svg);
+    background-image: url(icon\ _\ jam-icons\ _\ outline\ &\ logos\ _\ arrow-right\ \(1\).svg);
 }
 
 .footer-bottom {
